@@ -3,3 +3,9 @@
 - **Region** Região geográfica
 - **Avalablity zone** Data centers, cada region tem que ter no minimo 2 Availability zone 
 - **Edge locations** Servidores de cache, cdn e cloudfront, servem para ajudar distribuir os dados dentro de uma region
+
+### Identity and Access Management (IAM)
+> Gerenciar usuários dentro da aws
+**Tipos de usuários**
+- **ROOT** Acesso administrativo
+- **POWER USER** Acesso a todos os recursos exceto à IAM
